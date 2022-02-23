@@ -1,0 +1,15 @@
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\GameLogIntro.exe
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\GameLogIntro.deps.json
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\GameLogIntro.runtimeconfig.json
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\GameLogIntro.dll
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\ref\GameLogIntro.dll
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\bin\Debug\net6.0\GameLogIntro.pdb
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.AssemblyInfoInputs.cache
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.AssemblyInfo.cs
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.dll
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\ref\GameLogIntro.dll
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.pdb
+C:\Users\BATUHAN\source\repos\CampIntro\GameLogIntro\obj\Debug\net6.0\GameLogIntro.genruntimeconfig.cache
